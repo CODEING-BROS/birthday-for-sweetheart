@@ -16,7 +16,7 @@ const IntroScreen = ({ onNext }: IntroScreenProps) => {
       transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
     >
       <div>
-        <img src="/public/cute.gif"/>
+        <img src="/cute.gif"/>
       </div>
       
       {/* Sparkles around panda */}

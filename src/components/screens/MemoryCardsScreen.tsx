@@ -13,25 +13,25 @@ const MemoryCardsScreen = ({ onNext }: MemoryCardsScreenProps) => {
     id: 1,
     emoji: "🌟",
     text: "Every moment with you is magical",
-    img: "/public/1.jpeg"
+    img: "/1.jpeg"
   },
   {
     id: 2,
     emoji: "💕",
     text: "You make my heart smile",
-    img: "/public/2.jpeg"
+    img: "/2.jpeg"
   },
   {
     id: 3,
     emoji: "🌸",
     text: "You're my favorite person",
-    img: "/public/3.jpeg"
+    img: "/3.jpeg"
   },
   {
     id: 4,
     emoji: "✨",
     text: "Dreams come true with you",
-    img: "/public/4.jpeg"
+    img: "/4.jpeg"
   },
 ];
 
